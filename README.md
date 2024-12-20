@@ -1,4 +1,4 @@
-[![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=strandseter)](https://github.com/strandseter/github-readme-stats)
+[![Languages](https://github-readme-stats-5n04a9rxo-andersbss-projects.vercel.app/api/top-langs/?username=strandseter&langs_count=20&hide_progress=true&theme=transparent&hide=scss,makefile,handlebars,less,ejs)](https://github.com/strandseter/github-readme-stats)
 
 <!--
 ## Hi there 👋
