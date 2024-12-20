@@ -1,4 +1,4 @@
-![Languages](https://github-readme-stats-seven-fawn-55.vercel.app/api/top-langs/?username=strandseter&langs_count=20&hide_progress=true&theme=transparent&hide=scss,makefile,handlebars,less,ejs)
+![Languages](https://github-readme-stats-seven-fawn-55.vercel.app/api/top-langs/?username=strandseter&langs_count=20&hide_progress=true&theme=transparent&hide=scss,makefile,handlebars,less,ejs&hide_border=true)
 
 <!--
 ## Hi there 👋
