@@ -1,3 +1,4 @@
+https://github-readme-stats-5n04a9rxo-andersbss-projects.vercel.app/api/top-langs/?username=strandseter&langs_count=20&hide_progress=true&hide=scss,makefile,handlebars,less,ejs
 
 <!--
 ## Hi there 👋
