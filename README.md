@@ -1,10 +1,7 @@
-https://github-readme-stats-5n04a9rxo-andersbss-projects.vercel.app/api/top-langs/?username=strandseter&langs_count=20&hide_progress=true&hide=scss,makefile,handlebars,less,ejs
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=strandseter&layout=compact&token=$PAT_1](https://github-readme-stats-5n04a9rxo-andersbss-projects.vercel.app/api/top-langs/?username=strandseter&langs_count=20&hide_progress=true&theme=transparent&hide=scss,makefile,handlebars,less,ejs))
 
 <!--
 ## Hi there 👋
-
-![Top Langs](https://github-readme-stats-5n04a9rxo-andersbss-projects.vercel.app/api/top-langs/?username=strandseter)
-
 
 **strandseter/strandseter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
